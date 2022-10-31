@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(38, 63, 54);
+    color: white;
+    font: normal 18pt Arial;
+}
+
+input {
+    font: normal 20pt Arial;
+}
+
+div.somasub {
+    font-size: 40px;
+}
+
+div.resultado {
+    margin-top: 17px;
+}
+
+p {
+    color: rgb(38, 63, 54);
+    background-color: aquamarine;
+}
