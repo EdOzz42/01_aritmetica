@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(38, 63, 54);
+    background-color: rgb(80, 80, 80);
     color: white;
     font: normal 18pt Arial;
 }
@@ -17,6 +17,6 @@ div.resultado {
 }
 
 p {
-    color: rgb(38, 63, 54);
-    background-color: aquamarine;
+    color: rgb(80, 80, 80);
+    background-color: rgb(250, 216, 45);
 }
