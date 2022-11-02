@@ -30,4 +30,31 @@ function clicar01() {
     res2.innerHTML = `A subtração entre <strong>${n3}</strong> e <strong>${n4}</strong> é equivalente a <strong>${s2}</strong>`
 }
 
+var tn5 = window.document.getElementById("text5")
+var tn6 = window.document.getElementById("text6")
+var bt3 = window.document.getElementById("botao2")
+var res3 = window.document.getElementById("resx")
+
+bt3.addEventListener("click", clicar02)
+
+function clicar02() {
+    n5 = Number(tn5.value)
+    n6 = Number(tn6.value)
+    s3 = n5 * n6 
+    res3.innerHTML = `A multiplicação entre <strong>${n5}</strong> e <strong>${n6}</strong> é igual a <strong>${s3}</strong>`
+}
+
+var tn7 = window.document.getElementById("text7")
+var tn8 = window.document.getElementById("text8")
+var bt4 = window.document.getElementById("botao3")
+var res4 = window.document.getElementById("resd")
+
+bt4.addEventListener("click", clicar03)
+
+function clicar03() {
+    n7 = Number(tn7.value)
+    n8 = Number(tn8.value)
+    s4 = n7 / n8
+    res4.innerHTML = `A divisão entre <strong>${n7}</strong> e <strong>${n8}</strong> é igual a <strong>${s4}</strong>`
+}
 
