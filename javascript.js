@@ -58,3 +58,5 @@ function clicar03() {
     res4.innerHTML = `A divisão entre <strong>${n7}</strong> e <strong>${n8}</strong> é igual a <strong>${s4}</strong>`
 }
 
+console.log(window.document.body)
+
