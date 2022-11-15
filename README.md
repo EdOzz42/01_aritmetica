@@ -2,4 +2,4 @@
 ---
 Calculos de multiplicação, adição, subtração e divisão
 
-Clique [aqui](https://edozz42.github.io/Aritmetica/) para ver
+Clique **[aqui](https://edozz42.github.io/Aritmetica/)** para ver e fazer
