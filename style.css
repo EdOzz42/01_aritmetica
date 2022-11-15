@@ -29,8 +29,21 @@ input {
     margin-top: 17px;
 }
 
-p {
+.asmd {
     color: rgb(80, 80, 80);
     background-color: rgb(250, 216, 45);
     border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    font-size: 90%
+}
+
+a {
+    text-decoration: none;
+    color: rgb(250, 216, 45);
+    border: 2px solid rgb(250, 216, 45);
+    border-radius: 4px;
+    background-color: rgba(250, 216, 45, 0.147);
 }
