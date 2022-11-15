@@ -1,22 +1,36 @@
 body {
-    background-color: rgb(80, 80, 80);
+    background-color: rgb(64, 64, 64);
     color: white;
     font: normal 18pt Arial;
+    min-width: 280px;
+    max-width: 1000px;
+    margin: 10px;
+    margin: auto;
+}
+
+main {
+    padding: 20px;
+    background-color: rgb(83, 78, 56);
+    border-radius: 5px;
 }
 
 input {
     font: normal 20pt Arial;
+    max-width: 245px;
+    border-radius: 5px;
+    border: 0px;
 }
 
-div.arit {
+.arit {
     font-size: 45px;
 }
 
-div.resultado {
+.resultado {
     margin-top: 17px;
 }
 
 p {
     color: rgb(80, 80, 80);
     background-color: rgb(250, 216, 45);
+    border-radius: 5px;
 }
